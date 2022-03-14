@@ -1,5 +1,5 @@
 # the-scent-studio-project
-E-commerce website for perfume products using Django with React. 
+Ongoing e-commerce website for perfume products using Django with React. 
 
 Customized my own e-commerce application showcasing perfume products. Used Django and React for the features:
 
